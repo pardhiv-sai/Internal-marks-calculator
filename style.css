@@ -31,6 +31,9 @@ body{
     flex:1;
 }
 
+.marks input{
+    width: 100px;
+}
 
 .calculate{
     margin-top: 10px;
